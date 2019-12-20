@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAnalyser", "CodeAnalyser.csproj", "{959C8E42-1B31-419C-B91E-26CE9089A652}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "ModelingProject1", "..\ModelingProject1\ModelingProject1.modelproj", "{C0D3286A-EEC5-4B9F-9AF1-79A8AA4B63D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{959C8E42-1B31-419C-B91E-26CE9089A652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959C8E42-1B31-419C-B91E-26CE9089A652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959C8E42-1B31-419C-B91E-26CE9089A652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959C8E42-1B31-419C-B91E-26CE9089A652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0D3286A-EEC5-4B9F-9AF1-79A8AA4B63D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D3286A-EEC5-4B9F-9AF1-79A8AA4B63D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D3286A-EEC5-4B9F-9AF1-79A8AA4B63D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D3286A-EEC5-4B9F-9AF1-79A8AA4B63D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
